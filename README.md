@@ -1,5 +1,5 @@
 # dice
-Just for fun!
+Just for fun! Pure native Javascript and CSS
 ![](dice.gif)
 
 Hover can change the color of every side,
